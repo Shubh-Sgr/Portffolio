@@ -23,7 +23,7 @@ const Hero = () => {
           animate={{ y: 0 }}
           transition={{ delay: 0.6 }}
         >
-          A Full Stack Developer with 3 years of experience.
+          A Full Stack Developer with 3+ years of experience.
         </motion.p>
         <motion.a
           href="#projects"

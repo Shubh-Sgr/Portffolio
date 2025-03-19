@@ -17,7 +17,7 @@ const About = () => {
                     whileInView={{ y: 0, opacity: 1 }}
                     transition={{ duration: 0.8 }}
                 >
-                    I’m a passionate and results-driven Software Engineer with over 3 years of experience in building scalable, high-performance web applications and services. My expertise spans both frontend and backend development, allowing me to contribute across the full technology stack. I have a strong command of programming languages such as Java, C++, Python, JavaScript, and TypeScript, and I’m proficient in frameworks like React.js, Node.js, and Spring Boot.
+                    I’m a passionate and results-driven Software Engineer with over 3+ years of experience in building scalable, high-performance web applications and services. My expertise spans both frontend and backend development, allowing me to contribute across the full technology stack. I have a strong command of programming languages such as Java, C++, Python, JavaScript, and TypeScript, and I’m proficient in frameworks like React.js, Node.js, and Spring Boot.
 
                     I’m highly experienced in developing modern, responsive user interfaces with React.js, managing complex state with Redux and React Query, and building robust backend services and APIs. I’ve worked extensively with REST APIs, Microservices, and CI/CD pipelines, and I’m familiar with tools like Docker, Jenkins, and GitHub for efficient DevOps and deployment.
 
