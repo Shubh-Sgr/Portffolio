@@ -4,7 +4,7 @@ const projects = [
   {
     title: "CineExplore",
     desc: "A sleek and responsive web application that allows users to search for movies, explore trending films, and view detailed movie information in real-time.",
-    link: "https://github.com/Shubh-Sgr/movies_search",
+    link: "https://movies-search-lqeol26x7-shubham-sagars-projects-8bbef363.vercel.app/",
   },
   {
     title: "LogicMerge(2048)",
